@@ -1,0 +1,1 @@
+# lab-seatwork-3_adapter-pattern
